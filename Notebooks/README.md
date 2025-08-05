@@ -4,7 +4,7 @@ Este repositório reúne uma série de notebooks desenvolvidos com o objetivo de
 
 A análise considera tweets coletados dentro de recortes específicos de tempo e aplica técnicas de NLP para identificar sentimentos e emoções, agregando essas informações por filme.
 
-Mais detalhes sobre o escopo da pesquisa, critérios de seleção e fundamentação teórica estão disponíveis no PDF da dissertação, na pasta [`dissertacao-mestrado/`](./dissertacao-mestrado).
+Mais detalhes sobre o escopo da pesquisa, critérios de seleção e fundamentação teórica estão disponíveis no [PDF da dissertação](../Dissertação%20Mestrado/Mestrado_Brenno_Ruschioni_de_Oliveira.pdf).
 
 ---
 
@@ -30,7 +30,7 @@ Todos os notebooks foram desenvolvidos para execução via **Google Colab**.
 
 ### 📁 Dados
 
-Os arquivos necessários estão disponíveis na pasta [`Dados/`](./Dados), com links de download via OneDrive indicados nos notebooks.
+Os arquivos necessários estão disponíveis na pasta [`Dados/`](../Dados/link_dados.txt), com links de download via OneDrive indicados nos notebooks.
 
 > Ao abrir o notebook no Colab, siga as instruções e faça upload dos arquivos conforme solicitado.
 
